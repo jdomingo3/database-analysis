@@ -76,6 +76,14 @@ Figure 1. Entity Relationship Diagram <br />
 The following ERD depicts how to bring the database to 3NF.<br /><p align="center">
 ![alt text](https://i.imgur.com/nIKtCL5.png "Logo Title Text 1")</p>
 
+Figure 2. <b>OLD</b> Entity Relationship Diagram <br />
+The following shows the original poor database design.<br /><p align="center">
+![alt text](https://i.imgur.com/RIXK9t3.png "Logo Title Text 1")</p>
+
+<p align="center">
+<br /><b>Credits</b></p>
+1. Teorey, T.; Lightstone, S. and Nadeau, T. Database Modeling & Design: Logical Design, 4th edition, Morgan Kaufmann Press, 2005. ISBN 0-12-685352-5<br />
+2. Bagui, Sikha; Earp, Richard (2011). Database Design Using Entity-Relationship Diagrams (2nd ed.). CRC Press. ISBN 978-1-4398-6176-9.<br />
 <!--
  ```diff
 - text in red
